@@ -14,7 +14,7 @@ A fully-functional Bank Management System built with pure JavaScript, HTML, and 
 
 ## Demo
 
-[Insert a link to your live demo if available]
+[[Insert a link to your live demo if available](https://vishalfirgan.github.io/BankEasy/)]
 
 ## Screenshots
 
